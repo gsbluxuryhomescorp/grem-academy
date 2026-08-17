@@ -2,7 +2,7 @@
 
 > Connecting the world through real estate.
 
-A premium recruiting site for **Grem Academy** — a global real estate mastermind of 1,600+ top-producing agents operating as a community within eXp Realty.
+A premium recruiting site for **Grem Academy** — a global real estate mastermind of 1,425 top-producing agents operating as a community within eXp Realty.
 
 🌐 **Live site:** https://YOURUSERNAME.github.io/grem-academy/
 
